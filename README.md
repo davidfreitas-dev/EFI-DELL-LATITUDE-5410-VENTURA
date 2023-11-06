@@ -5,7 +5,7 @@ OpenCore, drivers, and kexts are always up to date!
 
 <br/>
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.4-lightblue.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.6-lightblue.svg)](https://github.com/acidanthera/OpenCorePkg)
 [![macOS](https://img.shields.io/badge/macOS-13.5-orange.svg)](https://www.apple.com/macos/ventura)
 
 :warning: **DISCLAIMER:**
