@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key># EFI DELL LATITUDE 5410 10TH GEN - OC 0.9.7</key>
+	<string></string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>

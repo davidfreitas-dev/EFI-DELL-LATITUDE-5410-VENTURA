@@ -5,8 +5,8 @@ OpenCore, drivers, and kexts are always up to date!
 
 <br/>
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.6-lightblue.svg)](https://github.com/acidanthera/OpenCorePkg)
-[![macOS](https://img.shields.io/badge/macOS-13.5-orange.svg)](https://www.apple.com/macos/ventura)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.7-lightblue.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![macOS](https://img.shields.io/badge/macOS-13.6-orange.svg)](https://www.apple.com/macos/ventura)
 
 :warning: **DISCLAIMER:**
 This is not a guide, please refer to [Dortania](https://dortania.github.io/getting-started/) before doing anything. I am not responsible for any damage. This OpenCore configuration is optimized for my specific hardware, so please use it only as a reference or if you happen to have the same or similar hardware.
@@ -23,7 +23,7 @@ This is not a guide, please refer to [Dortania](https://dortania.github.io/getti
 | **SSD**      | 265GB NVMe SSD (Kingspec branded)      |
 | **Display**  | 13,3" 1920x1080p LCD non-touch display |
 | **Wi-Fi/BT** | Broadcom BCM94360NG                    |
-| **Audio**    | Realtek ALC236 (layout-id=3)           |
+| **Audio**    | Realtek ALC236 (layout-id=11)          |
 | **Input**    | PS2 Keyboard & TrackPad                |
 
 ## :white_check_mark: Working:
@@ -31,7 +31,6 @@ This is not a guide, please refer to [Dortania](https://dortania.github.io/getti
 - [x] CPU power management.
 - [x] Graphics acceleration.
 - [x] Battery read-out.
-- [x] Keyboard & trackpad with all macOS gestures.
 - [x] Wi-Fi.
 - [x] Bluetooth.
 - [x] USB ports.
@@ -44,6 +43,8 @@ This is not a guide, please refer to [Dortania](https://dortania.github.io/getti
 - [x] AirDrop & Handoff.
 - [x] iCloud & App Store.
 - [x] iMessage & FaceTime.
+- [x] Trackpad with all macOS gestures.
+- [x] Keyboard (The cursor sometimes jumps when pressing a key for a longer period of time or even during simple typing)
 
 ## :x: Not working:
 
